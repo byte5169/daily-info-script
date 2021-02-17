@@ -5,3 +5,4 @@ google-auth-oauthlib
 retrying
 python-dotenv
 pyTelegramBotAPI
+beautifulsoup4
